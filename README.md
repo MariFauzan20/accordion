@@ -1,20 +1,14 @@
-#### Idea
+# Accordion - Basic React Project #4
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+## Description
 
-![](./idea.png);
+This repository contains a simple project react
+[Accordion Web](https://mar-ifauzan-accordion-react.netlify.app/)
 
-#### React Icons
+### Output
 
-[react icons](https://react-icons.github.io/react-icons/)
+![image](![image](https://user-images.githubusercontent.com/54301349/142896366-47bf0c2d-ef3c-4809-8e79-06928139e14d.png))
 
-```
-npm install react-icons --save
-```
+## References
 
-```javascript
-import { FaHome } from 'react-icons/fa';
-const Component = () => {
-  return <FaHome className='icon'></FaHome>;
-};
-```
+- [Code 15 React Projects - Complete Course](https://youtu.be/a_7Z7C_JCyo)
