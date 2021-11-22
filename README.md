@@ -7,7 +7,7 @@ This repository contains a simple project react
 
 ### Output
 
-![image](![image](https://user-images.githubusercontent.com/54301349/142896366-47bf0c2d-ef3c-4809-8e79-06928139e14d.png))
+![image](https://user-images.githubusercontent.com/54301349/142896366-47bf0c2d-ef3c-4809-8e79-06928139e14d.png)
 
 ## References
 
